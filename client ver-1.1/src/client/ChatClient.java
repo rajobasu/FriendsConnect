@@ -3,6 +3,7 @@ package client;
 import java.awt.EventQueue;
 
 public class ChatClient {
+	
     private Client client;
 	public static void main(String[] args) {
 		new ChatClient();
